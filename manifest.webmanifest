@@ -1,0 +1,8 @@
+{
+  "name": "Kylie Mae",
+  "short_name": "Kylie",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08060f",
+  "theme_color": "#08060f"
+}
